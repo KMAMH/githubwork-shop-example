@@ -1,1 +1,7 @@
 hello git
+things we did :
+-git init
+git status
+git add example.txt
+git commit -m'dasaddsa'
+git push origin main
